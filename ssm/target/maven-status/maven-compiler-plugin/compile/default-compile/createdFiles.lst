@@ -1,0 +1,5 @@
+com\ssm\mapper\UserMapper.class
+com\ssm\model\UserInfo.class
+com\ssm\controller\UserController.class
+com\ssm\service\IUserService.class
+com\ssm\service\UserServiceImpl.class
